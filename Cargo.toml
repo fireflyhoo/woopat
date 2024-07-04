@@ -1,0 +1,11 @@
+[package]
+name = "woopat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rdev = "0.5.3"
+xcap = "0.0.10"
+scrap = "0.5"
+png = "0.17.5"
+base64 = "0.22.1"
